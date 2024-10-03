@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class Conta {
     private String titular;
     private double saldo;
